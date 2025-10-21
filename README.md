@@ -1,15 +1,4 @@
 # CODSOFT_Artificial_Intelligence_Internship
-
-Perfect 👍 — here’s an **enhanced version** of your GitHub-ready **README files** for all five tasks, with added **“Features”** sections for each one.
-Each section is short, clean, and professional — ideal for uploading to GitHub.
-
----
-
-# 🧩 AI & ML Mini Projects
-
-This repository contains five beginner-friendly Artificial Intelligence and Machine Learning projects.
-Each task demonstrates a different AI concept — from chatbots and game theory to computer vision and NLP.
-
 ---
 
 ## 🧠 **TASK 1: Rule-Based Chatbot**
